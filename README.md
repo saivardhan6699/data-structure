@@ -165,4 +165,4 @@ Day 17
   
 Day 18
 1. Implement a C Program to find BFS for the given graph
-    2. Implement a C Program to find DFS for the given graph
+2. Implement a C Program to find DFS for the given graph
